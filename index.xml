@@ -6,8 +6,15 @@
     <description>Recent content on Devlogs</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Nov 2024 10:36:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi my name is Steven Savage and I would consider myself to be a low intermediate programmer I have created a numerous amount of projects that you can see on my git hub including this website. This website will be used for my devlogs. What you can expect to see (Updates for my game with descriptions of why I have changed/added the feature along with an explanation of how it will change the game for the better). I will not only make posts about my game I will also be making posts about other projects along side personal updates and normal blog posts about technology. I hope enjoy the website!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
