@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/about/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/posts/my-first-post/</loc>
     <lastmod>2024-11-19T10:36:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/posts/</loc>
     <lastmod>2024-11-19T10:36:07+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://thesavagedeveloperlogs.co.uk/tags/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devlogs</title>
-    <link>http://localhost:1313/</link>
+    <link>https://thesavagedeveloperlogs.co.uk/</link>
     <description>Recent content on Devlogs</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thesavagedeveloperlogs.co.uk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://thesavagedeveloperlogs.co.uk/about/</link>
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://thesavagedeveloperlogs.co.uk/about/</guid>
       <description>&lt;p&gt;Hi my name is Steven Savage and I would consider myself to be a low intermediate programmer I have created a numerous amount of projects that you can see on my git hub including this website. This website will be used for my devlogs. What you can expect to see (Updates for my game with descriptions of why I have changed/added the feature along with an explanation of how it will change the game for the better). I will not only make posts about my game I will also be making posts about other projects along side personal updates and normal blog posts about technology. I hope enjoy the website!&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://thesavagedeveloperlogs.co.uk/posts/my-first-post/</link>
       <pubDate>Tue, 19 Nov 2024 10:36:07 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://thesavagedeveloperlogs.co.uk/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xD;&#xA;  Introduction&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;This is the first part of my devlogs for my game on thin ice&#xA;in these devlogs I will showcase the progression of my game as I learn&#xA;how to further my coding skills in the gamemaker studio language&#xA;and as I fix bugs and add new features&lt;/p&gt;</description>
     </item>
   </channel>
