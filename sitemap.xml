@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thesavagedeveloperlogs.co.uk/about/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thesavagedeveloperlogs.co.uk/</loc>
+    <lastmod>2024-11-25T11:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://thesavagedeveloperlogs.co.uk/posts/</loc>
+    <lastmod>2024-11-25T11:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://thesavagedeveloperlogs.co.uk/posts/post1/</loc>
+    <lastmod>2024-11-25T11:57:52+00:00</lastmod>
+  </url><url>
+    <loc>https://thesavagedeveloperlogs.co.uk/about/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thesavagedeveloperlogs.co.uk/authors/</loc>
